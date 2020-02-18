@@ -73,13 +73,24 @@ ISR(TIMER1_COMPB_vect)
 2. Rewrite lab #3 section 6 using registers and timer interrupts. Note that when interrupts are used for timers, you don’t have to implement a state timer. Remember that when a variable is updated outside the main loop you must use the volatile design so that the compile does not optimize the variable out. 
 
 ```c
-volatile int asdf;
+volatile bool greenFirstRun=0, loopBack=0, redFirstRun=0, grFirstRun;
 #define MSEC_SAMPLE 1
+#define SW1_PIN 5
+//#define LED1_PIN 8
+//#define LED2_PIN 11
+#define  LED_CLOCK_PIN 11
+#define  LED_DATA_PIN 12
+#define QTR_SIG_PIN A3
+#define QTR_5V_PIN A4
+#define QTR_GND_PIN A5
+#define MSEC_SAMPLE 1
+
 
 enum {LED_OFF, BLINK_G_OFF, BLINK_R, BLINK_G_ON, BLINK_GR, BLINK_RATE};
 
 boolean isSwPressed, prevIsSwPressed, isSwJustReleased, isSwJustPressed, isSwChange;
-int state = LED_OFF, prevState = !state;
+volatile int state = LED_OFF;
+int prevState = !state;
 int stateTimer, adcQTR;
 boolean isNewState;
 boolean greentimer = true;
@@ -90,12 +101,15 @@ void setup() {
   PORTB &= ~(1 << 3);//digitalWrite(LED_CLOCK_PIN, LOW);
   DDRB |= (1 << 4); //pinMode(LED_DATA_PIN, OUTPUT);
   PORTB &= ~(1 << 4);//digitalWrite(LED_DATA_PIN, LOW);
-  DDRC &= ~(1 << 3);//pinMode(QTR_SIG_PIN, INPUT);
+  pinMode(QTR_SIG_PIN, INPUT);
   DDRC |= (1 << 4);//pinMode(QTR_5V_PIN, OUTPUT);   
   PORTC |= (1 << 4);//digitalWrite(QTR_5V_PIN, HIGH);
   DDRC |= (1 << 5);//pinMode(QTR_GND_PIN, OUTPUT);  
   PORTC &= ~(1 << 5);//digitalWrite(QTR_GND_PIN, LOW);
-   
+  
+  OCR1A = 15624;
+  OCR1B = 31249;
+  ICR1 = 0xFFFF;
   Serial.begin(9600);
   Serial.println(F("Lab 2 Complex State Machine"));
 } // setup()
@@ -149,10 +163,29 @@ void greenOn(void) {
 void allOff(void) {
    display_color_on_RGB_led(0x000000);
 }
+ISR(TIMER1_COMPA_vect){
+  if(greenFirstRun){
+    allOff();
+    greenFirstRun = !greenFirstRun;
+  }
+  if(redFirstRun){
+    allOff();
+    redFirstRun = !redFirstRun;
+  }
+  if(grFirstRun){
+    redOn();
+    grFirstRun = !grFirstRun;
+  }
+}
+
+ISR(TIMER1_COMPB_vect){
+  loopBack=true;
+}
+
 void loop() {
   prevIsSwPressed = isSwPressed;
-  isSwPressed = !(PINC & 0x20)/*!digitalRead(SW1_PIN)*/;
-  isSwJustPressed = (isSwPressed && !prevIsSwPressed);  // switch edge detection
+  isSwPressed = !(PINC & 0x20);
+  isSwJustPressed = (isSwPressed && !prevIsSwPressed);
   isSwJustReleased = (!isSwPressed && prevIsSwPressed);    
   isSwChange = (isSwJustReleased || isSwJustPressed);
  
@@ -169,61 +202,48 @@ void loop() {
     break;
    
         case BLINK_G_ON:
-      // state entry housekeeping (done once on entry)
       if (isNewState) {
-      stateTimer = 0;
       Serial.println("BLINK_G_ON");
+      greenFirstRun = true;
+      grFirstRun = false;
+      OCR1A = 15624;
+      OCR1B = 62499;
+      TIMSK1 = 0x06;//Use OCR1A and OCR1B
+      sei();
+      greenOn();
       }
-     
-      //state business (done everytime through the loop)
-      stateTimer++;
-      if (stateTimer < 250) greenOn();
-      else  state = BLINK_G_OFF; allOff();
-//      if (stateTimer >= 1000) stateTimer = 0;
-//      
-//      // state exit condition and exit housekeeping (done once on exit)
+     if (loopBack){
+       greenOn();
+       TCNT1 = 0;
+       loopBack = 0;
+       greenFirstRun = true;
+     }
       greentimer = false;
       if (isSwJustReleased) {
-         allOff();
+       cli();
+       allOff();
        state = BLINK_R;
-       
       }
     break;
-
-        case BLINK_G_OFF:
-      // state entry housekeeping (done once on entry)
-      if (isNewState) {
-      stateTimer = 0;
-      Serial.println("BLINK_G_OFF");
-      }
-     
-      //state business (done everytime through the loop)
-      stateTimer++;
-   //   if (stateTimer < 250) greenOn();
-    //  else allOff();
-      if (stateTimer > 1000)  {
-      state = BLINK_G_ON;
-}
-      // state exit condition and exit housekeeping (done once on exit)
-      if (isSwJustReleased) {
-        allOff();
-        state = BLINK_R;
-      }
-    break;
-
-
 
  case BLINK_R:
       if (isNewState) {
-      stateTimer = 0;
+      TCNT1 = 0;
+      greenFirstRun = false;
+      redFirstRun = true;
+      sei();
+      redOn();
       Serial.println("BLINK_R");
       }
-      stateTimer++;
-      if (stateTimer < 250) redOn();
-      else allOff();
-      if (stateTimer >= 1000) stateTimer = 0;
+      if (loopBack){
+       redOn();
+       TCNT1 = 0;
+       loopBack = false;
+       redFirstRun = true;
+     }
       if (isSwJustReleased) {
         allOff();
+        cli();
         state = BLINK_GR;
       }
     break;
@@ -232,38 +252,30 @@ void loop() {
     case BLINK_GR:
       if (isNewState) {
         stateTimer = 0;
+        TCNT1 = 0;
+        OCR1A = 15624*2;
+        grFirstRun = true;
+        redFirstRun = false;
+        sei();
         Serial.println("BLINK_GR");
       }
-      stateTimer++;
-      if (stateTimer < 500) redOn();
-      else greenOn();
-      if (stateTimer >= 1000) stateTimer = 0;
-      if (isSwJustReleased) {
-        allOff();
-        state = BLINK_RATE;
+      if (loopBack){
+        greenOn();
+        TCNT1 = 0;
+        loopBack = false;
+        grFirstRun = true;
       }
-    break;
-
-  case BLINK_RATE:
-      if (isNewState) {
-        stateTimer = 0;
-        Serial.println("BLINK_RATE");
-      }
-      stateTimer++;
-      adcQTR = analogRead(QTR_SIG_PIN);
-      if (stateTimer < adcQTR/2) redOn();
-      else greenOn();
-      if (stateTimer >= adcQTR) stateTimer = 0;
+      
       if (isSwJustReleased) {
         allOff();
         state = LED_OFF;
       }
     break;
+
      
     default: state = LED_OFF;
   } // switch (state)
 
-  delay(MSEC_SAMPLE);
 } // loop()
 ```
 
