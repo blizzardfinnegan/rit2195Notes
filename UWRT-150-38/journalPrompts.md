@@ -32,5 +32,3 @@ My past experiences with the peer review process have been formulaic, as with th
 # Journal Prompt 4
 
 1. We spend this week talking about and finding examples of two rhetorical strategies that Joseph Harris believes academic writers employ: forwarding and countering. For this entry, I’d like you to think about your Critical Synthesis essay through the lens of these particular writerly “moves”. That is, how might you forward or counter the ideas/claims/perspectives/positions of Gee, Anzaldua, or Ashanti-Young? Try to be specific.
-
-    Remember that Harris says “Forwarding alligns; countering”

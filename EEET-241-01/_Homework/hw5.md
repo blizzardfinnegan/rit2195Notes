@@ -22,8 +22,6 @@
 
 
 
-31, 33
-
 25. A 66.7MVA transformer has an efficiency of 99.3% when it delivers full power to a load having a power factor of 100%.
     1. Calculate the losses in the transformer under these conditions.
     2. Calculate the losses and efficiency when the transformer delivers 66.7MVA to a load having a power factor of 80%.
