@@ -73,7 +73,7 @@ ISR(TIMER1_COMPB_vect)
 2. Rewrite lab #3 section 6 using registers and timer interrupts. Note that when interrupts are used for timers, you don’t have to implement a state timer. Remember that when a variable is updated outside the main loop you must use the volatile design so that the compile does not optimize the variable out. 
 
 ```c
-volatile bool greenFirstRun=0, loopBack=0, redFirstRun=0, grFirstRun;
+volatile bool greenFirstRun=0, loopBack=0, redFirstRun=0, grFirstRun=0;
 #define MSEC_SAMPLE 1
 #define SW1_PIN 5
 //#define LED1_PIN 8
