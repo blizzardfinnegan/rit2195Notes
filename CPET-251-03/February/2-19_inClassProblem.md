@@ -1,0 +1,47 @@
+# Coding problem
+
+Create a game show setup
+
+- [x] each contestant has the ability to force PD4-PD7 low
+- [x] first to buzz in lights up PB0-PB3 respectively
+- [x] interrupt definition for who buzzed first
+
+Tasks
+
+- [x] initialize ports
+- [x] initialize interrupts
+- [x] write ISR
+
+```c
+void setup(){
+    DDRB |= 0x0F;
+    DDRD &= 0x0F;
+    PORTB &= 0xF0;
+    PORTD |= 0xF0;
+    cli();
+    PCICR  = 4;
+    PCMSK2 = 0xF0;
+    sei();
+}
+
+void loop(){
+    while(1){}
+}
+
+ISR(PCINT2_vect){
+    byte inputPins = PIND;
+    if(inputPins & 0x10) {
+        PORTB |= 0x01;
+        PORTB &= 0xF1;
+    }
+    if(inputPins & 0x20) {
+        PORTB |= 0x02;
+        PORTB &= 0xF2;
+    }
+    if(inputPins & 0x40) {
+        PORTB |= 0x04;
+        PORTB &= 0xF4;
+    }
+}
+```
+
