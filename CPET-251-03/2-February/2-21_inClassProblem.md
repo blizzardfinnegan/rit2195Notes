@@ -1,3 +1,7 @@
+# Skyler MacDougall
+
+## 2-21-2020 In Class Problem
+
 Assume the following setup:
 
 ```c
@@ -51,34 +55,41 @@ $$
 
 10. Write the C code to achieve the following:
 
-- [ ] Use a PWM wave to control the brightness of an LED connected to pin PD6
+- [x] Use a PWM wave to control the brightness of an LED connected to pin PD6
 
-- [ ] The LED is at 10% brightness at the start of the program.
-- [ ] There is one pushbutton connected to INT0 and one connected to INT1.
-    - [ ] each time INT0 is pressed, an interrupt increases the brightness of the LED by 10%
-    - [ ] each time INT1 is pressed, an interrupt decreases the brightness of the LED by 10%
-    - [ ] the brightness cannot go below 10% or above 90%
+- [x] The LED is at 10% brightness at the start of the program.
+- [x] There is one pushbutton connected to INT0 and one connected to INT1.
+    - [x] each time INT0 is pressed, an interrupt increases the brightness of the LED by 10%
+    - [x] each time INT1 is pressed, an interrupt decreases the brightness of the LED by 10%
+    - [x] the brightness cannot go below 10% or above 90%
 
 
 
 ```c
 void setup(){
-    TCCR1A = 0bxxxxxxxx;
-    TCCR1B = 0b0000x001;
+    TCCR0A = 0b10000011;
+    TCCR0B = 0b00000001;
+    OCR0A = 25;
+    TCNT0 = 0;
+    cli();
+    EICRA = 0;
+    EIMSK = 3;
+    sei();
 }
+
 void loop(){
-    
+    while(1);
 }
 
 ISR(INT1_vect){
-    if(OCR0 > 25){
-        OCR0 -= 25; 
+    if(OCR0A > 25){
+        OCR0A -= 25; 
     }
 }
 
 ISR(INT0_vect){
-    if(OCR0 < 230){
-        OCR0 += 25; 
+    if(OCR0A < 230){
+        OCR0A += 25; 
     }
 }
 ```
