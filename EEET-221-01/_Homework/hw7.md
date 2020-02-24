@@ -9,12 +9,17 @@
      Assume that the op-amp slew rate is $0.6V/\mu s$. Calculate the slew rate limiting frequency, given the complex signal peak values:
 
     1. 10mV
+        $$
+        
+        $$
+    
     2. 0.1V
+    
     3. 1V
 
 
 
-45. A non-inverting amplifier with a gain of 25 is to be d3signed for use in an audio application. Specifications require that the gain vary no more than 1dB from near DC to 20kHz. the peak input signal is expected never to exceed 0.5V. Determine the minimum values for:
+45. A non-inverting amplifier with a gain of 25 is to be designed for use in an audio application. Specifications require that the gain vary no more than 1dB from near DC to 20kHz. the peak input signal is expected never to exceed 0.5V. Determine the minimum values for:
     1. unity gain frequency
     2. slew rate for the op-amp selected
 

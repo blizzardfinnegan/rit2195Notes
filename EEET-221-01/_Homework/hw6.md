@@ -37,7 +37,7 @@
 
 
 9. Consider the following circuit:
-    
+   
     ![](hw6.assets/hw6q9.png)
     
     If the unity-gain frequency of the op amp is 1.6MHz, determine the closed loop 3-dB bandwidth.

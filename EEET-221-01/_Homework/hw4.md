@@ -12,7 +12,6 @@
         \overline{\underline{|K_n=35|}}
         $$
         
-    
     2. Use the result to calculate the exact signal gain at DC and low frequencies if $A_o=10^5$.
         $$
         K_n={1\over \beta};\ \beta={1\over 35}\\
@@ -33,7 +32,6 @@
         \overline{\underline{|K_n=16|}}
         $$
         
-    
     2. Use the result to calculate the exact gain factors for the two signals if $A_o=5\times 10^4$.
         $$
         K_n={1\over \beta};\ \beta={1\over 16}\\
@@ -58,7 +56,6 @@
         \overline{\underline{|V_{o1}=1.6mV|}}
         $$
         
-    
     2. With $R_c=0$ determine the magnitude of the output dc voltage $|V_{o2}|$ produced by the input bias currents.
         $$
         V_{o2}=R_c(\alpha)i_b^+-R_f(I_b^2);\ R_c=0\\
@@ -69,14 +66,12 @@
         \overline{\underline{|V_{o2}=-3.808mV|}}
         $$
         
-    
     3. Determine the optimum value of $R_c$.
         $$
         R_{c_{ideal}}=2k\Omega||68k\Omega\\
         \overline{\underline{|R_{c_{ideal}}=1.94k\Omega|}}
         $$
         
-    
     4. Given your new value for $R_c$, find $|V_{o2}|$.
         $$
         V_{o2}=R_c(\alpha)i_b^+-R_f(I_b^2);\ R_c=0;\ i_b^+=64nA;\ i_b^-=56nA\\
