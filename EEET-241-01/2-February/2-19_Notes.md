@@ -51,9 +51,3 @@ Given $40^\circ C$ ambient, the following classes exist
 - special cases
 
 Some places run them “cold”, which lets them run longer. Utilities run them “hot”, which replaces them faster, but its cheaper.
-
-# Chapter 11
-
-Withstand current = short circuit
-
-$Thevenin = {V_{nominal} \over I_{sc}}$
