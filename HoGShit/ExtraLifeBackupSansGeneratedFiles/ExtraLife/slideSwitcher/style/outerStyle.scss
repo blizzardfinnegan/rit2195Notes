@@ -1,0 +1,41 @@
+@import 'base';
+
+body {
+	display: flex;
+	flex-direction: column;
+	transition: opacity 2s ease;
+	
+	:root.hidden > & {
+		opacity: 0;
+	}
+}
+
+h1 {
+	font-size: 1.625em;
+	font-family: "Alba", "Nunito";
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: var(--color-light-blue);
+	
+	&.flexibleTitle {
+		white-space: nowrap;
+	}
+	
+	.game-name {
+		font-style: italic;
+	}
+}
+
+iframe {
+	display: block;
+	width: 100%;
+	width: fit-content;
+}
+
+#insertedSlide {
+	border: solid 0.25em var(--color-green);
+	border-radius: 1em;
+	width: 100%;
+	flex-grow: 1;
+	background-color: var(--color-dark-blue, transparent);
+}

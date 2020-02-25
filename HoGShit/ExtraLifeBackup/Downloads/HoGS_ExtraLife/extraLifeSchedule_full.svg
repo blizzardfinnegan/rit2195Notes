@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.89999 279.39999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="extraLifeSchedule_full.svg"
+   inkscape:export-filename="/Users/247flashgames/Downloads/extraLifeSchedule.png"
+   inkscape:export-xdpi="491.51999"
+   inkscape:export-ydpi="491.51999">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="StopS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="StopS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5273"
+         d="M 0,5.65 V -5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#47b200;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="StopM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5270"
+         d="M 0,5.65 V -5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#30c3eb;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="StopL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5267"
+         d="M 0,5.65 V -5.65"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#30c3eb;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondSstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondSstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5192"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#30c3eb;fill-opacity:1;fill-rule:evenodd;stroke:#30c3eb;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondSstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5783"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5781"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondSend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5597"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5228"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondSstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyDiamondSstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5219"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5361"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5210"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#47b200;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyDiamondS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4651"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#47b200;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondSend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyDiamondSend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4669"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyDiamondM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4648"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4618"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4517">
+      <stop
+         offset="0"
+         id="stop4513"
+         style="stop-color:#47b200;stop-opacity:1" />
+      <stop
+         offset="1"
+         id="stop4515"
+         style="stop-color:#30c3eb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient4525"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0019149,0,0,0.99808868,-5.4921824,-208.00525)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient631"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169"
+       gradientTransform="matrix(1.0019149,0,0,0.99808871,3.0989029e-6,-146.82716)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient633"
+       gradientUnits="userSpaceOnUse"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169"
+       gradientTransform="matrix(1.0019149,0,0,0.99808871,2.6509031,-146.82716)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3212"
+       x="-0.80633682"
+       width="2.6126736"
+       y="-0.024736256"
+       height="1.0494725">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.6953334"
+         id="feGaussianBlur3214" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient3604"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0019149,0,0,0.99808871,-5.4921825,-208.00525)"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient3634"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0019149,0,0,0.99808869,-5.4921824,-208.00524)"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient3644"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0019149,0,0,0.99808871,8.1732222,-222.97733)"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4517"
+       id="linearGradient3646"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0019149,0,0,0.99808868,8.1732213,-222.97733)"
+       x1="0"
+       y1="164.70877"
+       x2="105.83333"
+       y2="197.78169" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.52746212"
+     inkscape:cx="408"
+     inkscape:cy="528"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-grids="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid819"
+       spacingx="6.3499997"
+       spacingy="6.3499997"
+       empspacing="4"
+       enabled="true"
+       units="in"
+       originx="12.699999" />
+    <sodipodi:guide
+       position="37.131998,0"
+       orientation="1,0"
+       id="guide3617"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="98.213581,252.0746"
+       orientation="0,1"
+       id="guide3619"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="165.77999,184.05399"
+       orientation="0,1"
+       id="guide4180"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline"
+     transform="translate(0,147.10833)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#194f6c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.46666622;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect817"
+       width="215.89999"
+       height="279.39999"
+       x="0"
+       y="-147.10832" />
+  </g>
+  <g
+     transform="translate(0,147.10833)"
+     style="display:none"
+     inkscape:label="background copy"
+     id="g637"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       y="0"
+       x="0"
+       height="132.29167"
+       width="105.83333"
+       id="rect635"
+       style="opacity:1;fill:#194f6c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.46666622;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="timeline"
+     transform="translate(0,147.10833)">
+    <g
+       id="g3379"
+       transform="matrix(0.87662459,0,0,0.87662459,2.1140596,15.851061)"
+       style="stroke-width:1.1407392">
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="1.2990853"
+         id="text2746"><tspan
+           sodipodi:role="line"
+           id="tspan2744"
+           x="35.52253"
+           y="1.2990853"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">12<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2742">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2752"
+         y="11.283883"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="11.283883"
+           x="35.52253"
+           id="tspan2750"
+           sodipodi:role="line">1<tspan
+   id="tspan2748"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="21.268677"
+         id="text2758"><tspan
+           sodipodi:role="line"
+           id="tspan2756"
+           x="35.52253"
+           y="21.268677"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">2<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2754">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2764"
+         y="31.253469"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="31.253469"
+           x="35.52253"
+           id="tspan2762"
+           sodipodi:role="line">3<tspan
+   id="tspan2760"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="41.238262"
+         id="text2770"><tspan
+           sodipodi:role="line"
+           id="tspan2768"
+           x="35.52253"
+           y="41.238262"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">4<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2766">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2776"
+         y="51.223061"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="51.223061"
+           x="35.52253"
+           id="tspan2774"
+           sodipodi:role="line">5<tspan
+   id="tspan2772"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="61.207859"
+         id="text2782"><tspan
+           sodipodi:role="line"
+           id="tspan2780"
+           x="35.52253"
+           y="61.207859"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">6<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2778">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2788"
+         y="71.192657"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="71.192657"
+           x="35.52253"
+           id="tspan2786"
+           sodipodi:role="line">7<tspan
+   id="tspan2784"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="81.177452"
+         id="text2794"><tspan
+           sodipodi:role="line"
+           id="tspan2792"
+           x="35.52253"
+           y="81.177452"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">8<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2790">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2800"
+         y="91.162254"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="91.162254"
+           x="35.52253"
+           id="tspan2798"
+           sodipodi:role="line">9<tspan
+   id="tspan2796"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="101.14704"
+         id="text2806"><tspan
+           sodipodi:role="line"
+           id="tspan2804"
+           x="35.52253"
+           y="101.14704"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">10<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2802">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2812"
+         y="111.13184"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="111.13184"
+           x="35.52253"
+           id="tspan2810"
+           sodipodi:role="line">11<tspan
+   id="tspan2808"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="121.11664"
+         id="text2818"><tspan
+           sodipodi:role="line"
+           id="tspan2816"
+           x="35.52253"
+           y="121.11664"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">12<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan2814">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5404"
+         y="-118.51845"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-118.51845"
+           x="35.52253"
+           id="tspan5402"
+           sodipodi:role="line">12<tspan
+   id="tspan864"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="-108.53365"
+         id="text4841"><tspan
+           sodipodi:role="line"
+           id="tspan4839"
+           x="35.52253"
+           y="-108.53365"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">1<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan4837">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text4847"
+         y="-98.548851"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-98.548851"
+           x="35.52253"
+           id="tspan4845"
+           sodipodi:role="line">2<tspan
+   id="tspan4843"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="-88.564064"
+         id="text4853"><tspan
+           sodipodi:role="line"
+           id="tspan4851"
+           x="35.52253"
+           y="-88.564064"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">3<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan4849">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text4859"
+         y="-78.579269"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-78.579269"
+           x="35.52253"
+           id="tspan4857"
+           sodipodi:role="line">4<tspan
+   id="tspan4855"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="-68.594467"
+         id="text4865"><tspan
+           sodipodi:role="line"
+           id="tspan4863"
+           x="35.52253"
+           y="-68.594467"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">5<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan4861">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text4871"
+         y="-58.609673"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-58.609673"
+           x="35.52253"
+           id="tspan4869"
+           sodipodi:role="line">6<tspan
+   id="tspan4867"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="-48.624874"
+         id="text4877"><tspan
+           sodipodi:role="line"
+           id="tspan4875"
+           x="35.52253"
+           y="-48.624874"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">7<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan4873">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text4883"
+         y="-38.640076"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-38.640076"
+           x="35.52253"
+           id="tspan4881"
+           sodipodi:role="line">8<tspan
+   id="tspan4879"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="-28.655277"
+         id="text4889"><tspan
+           sodipodi:role="line"
+           id="tspan4887"
+           x="35.52253"
+           y="-28.655277"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">9<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan4885">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text4895"
+         y="-18.67049"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-18.67049"
+           x="35.52253"
+           id="tspan4893"
+           sodipodi:role="line">10<tspan
+   id="tspan4891"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="35.52253"
+         y="-8.6856918"
+         id="text4901"><tspan
+           sodipodi:role="line"
+           id="tspan4899"
+           x="35.52253"
+           y="-8.6856918"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">11<tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px"
+   id="tspan4897">PM</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text4907"
+         y="1.2991065"
+         x="35.52253"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.17080498px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.58540249px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';text-align:end;baseline-shift:baseline;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="1.2991065"
+           x="35.52253"
+           id="tspan4905"
+           sodipodi:role="line">12<tspan
+   id="tspan4903"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:4.79270124px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';stroke-width:0.30182055px">AM</tspan></tspan></text>
+    </g>
+    <g
+       id="g3221"
+       transform="matrix(0.87662459,0,0,0.87662459,2.1140596,15.851061)"
+       style="stroke-width:1.1407392">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.84443474;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3212);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 150.97852,77.642578 -14.42969,14.611328 9.93555,10.062504 v 26.69531 h -5.67188 v 2.43359 h 5.67188 v 35.55078 h -5.67188 v 2.43164 h 5.67188 v 35.54883 h -5.67188 v 2.41992 h 5.67188 v 35.54688 h -5.67188 v 2.43359 h 5.67188 v 35.55078 h -5.67188 v 2.43165 h 5.67188 v 35.54687 h -5.67188 v 2.42187 h 5.67188 V 356.875 h -5.67188 v 2.43359 h 5.67188 v 35.54883 h -5.67188 v 2.4336 h 5.67188 v 35.54687 h -5.67188 v 2.42188 h 5.67188 v 35.54687 h -5.67188 v 2.43359 h 5.67188 v 35.54883 h -5.67188 v 2.4336 h 5.67188 v 26.69531 0.002 l -9.93555,10.06055 9.93555,10.06055 v 26.69726 h -5.67188 v 2.43164 h 5.67188 v 35.55078 h -5.67188 v 2.4336 h 5.67188 v 35.54687 h -5.67188 v 2.42188 h 5.67188 v 35.54687 h -5.67188 v 2.43164 h 5.67188 v 35.55078 h -5.67188 v 2.4336 h 5.67188 v 35.54687 h -5.67188 v 2.41992 h 5.67188 v 35.54883 h -5.67188 v 2.43164 h 5.67188 v 35.55078 h -5.67188 v 2.43164 h 5.67188 v 35.54883 h -5.67188 v 2.41993 h 5.67188 v 35.54687 h -5.67188 v 2.43359 h 5.67188 v 35.55078 h -5.67188 v 2.43165 h 5.67188 v 26.69726 l -9.93555,10.06062 14.42969,14.6133 14.42773,-14.6133 -0.85156,-0.8633 -9.08203,-9.19732 v -26.69726 h 5.67187 v -2.43165 h -5.67187 v -35.55078 h 5.67187 v -2.43359 h -5.67187 v -35.54687 h 5.67187 v -2.41993 h -5.67187 v -35.54883 h 5.67187 v -2.43164 h -5.67187 V 815.0332 h 5.67187 v -2.43164 h -5.67187 v -35.54883 h 5.67187 v -2.41992 h -5.67187 v -35.54687 h 5.67187 v -2.4336 h -5.67187 v -35.55078 h 5.67187 v -2.43164 h -5.67187 v -35.54687 h 5.67187 v -2.42188 h -5.67187 V 625.1543 h 5.67187 v -2.4336 h -5.67187 v -35.55078 h 5.67187 v -2.43164 h -5.67187 v -26.69726 l 9.93359,-10.06055 -0.85156,-0.86328 -9.08203,-9.19727 v -0.002 -26.69531 h 5.67187 v -2.4336 h -5.67187 v -35.54883 h 5.67187 v -2.43359 h -5.67187 v -35.54687 h 5.67187 v -2.42188 h -5.67187 v -35.54687 h 5.67187 v -2.4336 h -5.67187 v -35.54883 h 5.67187 V 356.875 h -5.67187 v -35.54688 h 5.67187 v -2.42187 h -5.67187 v -35.54687 h 5.67187 v -2.43165 h -5.67187 v -35.55078 h 5.67187 v -2.43359 h -5.67187 v -35.54688 h 5.67187 v -2.41992 h -5.67187 v -35.54883 h 5.67187 v -2.43164 h -5.67187 v -35.55078 h 5.67187 v -2.43359 h -5.67187 v -26.69531 l 9.93359,-10.062504 -0.85156,-0.863281 z m 0,3.445313 11.02734,11.166015 -6.5332,6.617188 v -6.617188 a 4.5004498,4.55771 0 0 0 -4.5625,-4.61914 4.5004498,4.55771 0 0 0 -4.42578,4.61914 v 6.617188 l -6.53321,-6.617188 z m -4.49414,460.275389 v 6.61719 a 4.5004498,4.55771 0 0 0 0,0.47656 v 6.13867 l -6.53321,-6.61523 z m 8.98828,0 6.5332,6.61719 -6.5332,6.61523 v -6.26172 a 4.5004498,4.55771 0 0 0 0,-0.35351 z m -8.98828,455.72656 v 6.61526 a 4.5004498,4.55771 0 1 0 8.98828,0 v -6.61526 l 6.5332,6.61526 -11.02734,11.1679 -11.02735,-11.1679 z"
+         transform="matrix(0.26458333,0,0,0.26458333,0,-147.10833)"
+         id="path1135" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7804"
+         d="m 39.946399,-126.5654 -3.817855,3.86592 2.628781,2.66237 v 7.06313 H 37.25664 v 0.64389 h 1.500685 v 9.40614 H 37.25664 v 0.64337 h 1.500685 v 9.405631 H 37.25664 v 0.64027 h 1.500685 v 9.405112 H 37.25664 v 0.643888 h 1.500685 v 9.406143 H 37.25664 v 0.643374 h 1.500685 v 9.40511 H 37.25664 v 0.640786 h 1.500685 v 9.405112 H 37.25664 v 0.643887 h 1.500685 v 9.405628 H 37.25664 v 0.64389 h 1.500685 v 9.405109 H 37.25664 v 0.640789 h 1.500685 v 9.40511 H 37.25664 v 0.643887 h 1.500685 v 9.405628 H 37.25664 v 0.64389 h 1.500685 v 7.0631338 5.159e-4 l -2.628781,2.6618538 2.628781,2.66185385 V 7.6036713 H 37.25664 v 0.6433714 h 1.500685 V 17.653186 H 37.25664 v 0.64389 h 1.500685 v 9.40511 H 37.25664 v 0.640789 h 1.500685 v 9.405109 H 37.25664 v 0.643371 h 1.500685 v 9.406144 H 37.25664 v 0.64389 h 1.500685 v 9.405109 H 37.25664 v 0.640271 h 1.500685 v 9.405628 H 37.25664 v 0.643371 h 1.500685 v 9.406144 H 37.25664 v 0.643371 h 1.500685 v 9.405628 H 37.25664 v 0.640273 h 1.500685 v 9.405109 H 37.25664 v 0.643888 h 1.500685 v 9.406139 H 37.25664 v 0.64338 h 1.500685 v 7.06365 l -2.628781,2.66186 3.817855,3.86643 3.817337,-3.86643 -0.225308,-0.22842 -2.402954,-2.43344 v -7.06365 h 1.500682 v -0.64338 h -1.500682 v -9.406139 h 1.500682 v -0.643888 h -1.500682 v -9.405109 h 1.500682 v -0.640273 h -1.500682 v -9.405628 h 1.500682 v -0.643371 h -1.500682 v -9.406144 h 1.500682 v -0.643371 h -1.500682 v -9.405628 h 1.500682 v -0.640271 h -1.500682 v -9.405109 h 1.500682 v -0.64389 h -1.500682 v -9.406144 h 1.500682 v -0.643371 h -1.500682 v -9.405109 h 1.500682 v -0.640789 h -1.500682 v -9.40511 h 1.500682 v -0.64389 H 41.135474 V 8.2470427 h 1.500682 V 7.6036713 H 41.135474 V 0.54002135 L 43.763736,-2.1218325 43.538428,-2.350242 41.135474,-4.7836863 v -5.159e-4 -7.0631338 h 1.500682 v -0.64389 h -1.500682 v -9.405628 h 1.500682 v -0.643887 h -1.500682 v -9.40511 h 1.500682 v -0.640789 h -1.500682 v -9.405109 h 1.500682 v -0.64389 h -1.500682 v -9.405628 h 1.500682 v -0.643887 h -1.500682 v -9.405112 h 1.500682 v -0.640786 h -1.500682 v -9.40511 h 1.500682 v -0.643374 h -1.500682 v -9.406143 h 1.500682 v -0.643888 h -1.500682 v -9.405112 h 1.500682 v -0.64027 h -1.500682 v -9.405631 h 1.500682 v -0.64337 h -1.500682 v -9.40614 h 1.500682 v -0.64389 h -1.500682 v -7.06313 l 2.628262,-2.66237 -0.225308,-0.22841 z m 0,0.91157 2.917651,2.95435 -1.728576,1.75079 v -1.75079 a 1.190744,1.2058941 0 0 0 -1.207162,-1.22215 1.190744,1.2058941 0 0 0 -1.170987,1.22215 v 1.75079 l -1.728579,-1.75079 z M 38.757325,-3.8726306 v 1.7507981 a 1.190744,1.2058941 0 0 0 0,0.1260899 v 1.62418971 L 37.028746,-2.1218325 Z m 2.378149,0 1.728576,1.7507981 -1.728576,1.75027961 V -2.0282996 a 1.190744,1.2058941 0 0 0 0,-0.093533 z M 38.757325,116.70502 v 1.75029 a 1.190744,1.2058941 0 1 0 2.378149,0 v -1.75029 l 1.728576,1.75029 -2.917651,2.95484 -2.917653,-2.95484 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#47b200;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.81092334;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7806"
+         d="m 43.313861,-2.1218954 -3.3676,-3.4104533 -3.367592,3.4104533 3.367592,3.4104319 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#47b200;stroke-width:0.36218467pt;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7808"
+         d="m 43.313861,118.45546 -3.3676,-3.41046 -3.367592,3.41046 3.367592,3.41043 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#47b200;stroke-width:0.36218467pt;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#47b200;stroke-width:0.36218467pt;stroke-opacity:1"
+         d="m 43.313861,-122.69925 -3.3676,-3.41045 -3.367592,3.41045 3.367592,3.41043 z"
+         id="path650"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3483"
+       transform="matrix(0.87662459,0,0,0.87662459,2.1140596,15.851061)"
+       style="stroke-width:1.1407392">
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2356"
+         y="4.7746091"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="4.7746091"
+           x="44.731876"
+           id="tspan2354"
+           sodipodi:role="line">Town of Salem</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="14.759396"
+         id="text2360"><tspan
+           sodipodi:role="line"
+           id="tspan2358"
+           x="44.731876"
+           y="14.759396"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">DOOM</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2364"
+         y="24.744194"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="24.744194"
+           x="44.731876"
+           id="tspan2362"
+           sodipodi:role="line">Dream Daddy</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="34.728981"
+         id="text2368"><tspan
+           sodipodi:role="line"
+           id="tspan2366"
+           x="44.731876"
+           y="34.728981"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Monster Prom</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2372"
+         y="44.713779"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="44.713779"
+           x="44.731876"
+           id="tspan2370"
+           sodipodi:role="line">N++</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="54.698578"
+         id="text2376"><tspan
+           sodipodi:role="line"
+           id="tspan2374"
+           x="44.731876"
+           y="54.698578"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">I am Bread</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="64.683365"
+         id="text2648"><tspan
+           sodipodi:role="line"
+           id="tspan2646"
+           x="44.731876"
+           y="64.683365"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Skyrim</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2652"
+         y="74.668159"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="74.668159"
+           x="44.731876"
+           id="tspan2650"
+           sodipodi:role="line">Sonic Adventure DX</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="84.652946"
+         id="text2656"><tspan
+           sodipodi:role="line"
+           id="tspan2654"
+           x="44.731876"
+           y="84.652946"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Bastion</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2660"
+         y="94.637756"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="94.637756"
+           x="44.731876"
+           id="tspan2658"
+           sodipodi:role="line">Shower with Your Dad Simulator</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="104.62254"
+         id="text2664"><tspan
+           sodipodi:role="line"
+           id="tspan2662"
+           x="44.731876"
+           y="104.62254"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Mario Kart <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.30182055px"
+   id="tspan2670">(multiplayer)</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text2668"
+         y="114.60735"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="114.60735"
+           x="44.731876"
+           id="tspan2666"
+           sodipodi:role="line">Keep Talking and Nobody Explodes</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="-115.04293"
+         id="text4954"><tspan
+           sodipodi:role="line"
+           id="tspan4952"
+           x="44.731876"
+           y="-115.04293"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Don’t Starve Together</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5040"
+         y="-105.05814"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-105.05814"
+           x="44.731876"
+           id="tspan5038"
+           sodipodi:role="line">Assasin’s Creed: Origins</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="-95.073349"
+         id="text5044"><tspan
+           sodipodi:role="line"
+           id="tspan5042"
+           x="44.731876"
+           y="-95.073349"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">The Stanley Parable</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5048"
+         y="-85.088554"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-85.088554"
+           x="44.731876"
+           id="tspan5046"
+           sodipodi:role="line">Super Hexagon &amp; VVVVVV</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="-75.10376"
+         id="text5052"><tspan
+           sodipodi:role="line"
+           id="tspan5050"
+           x="44.731876"
+           y="-75.10376"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Atari games</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5056"
+         y="-65.118958"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-65.118958"
+           x="44.731876"
+           id="tspan5054"
+           sodipodi:role="line">Super Mario Odyssey <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.30182055px"
+   id="tspan5905">(speedrun)</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="-55.134163"
+         id="text5060"><tspan
+           sodipodi:role="line"
+           id="tspan5058"
+           x="44.731876"
+           y="-55.134163"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Jackbox Party Pack 1–4</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5064"
+         y="-45.149364"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-45.149364"
+           x="44.731876"
+           id="tspan5062"
+           sodipodi:role="line">Slay the Spire</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="-35.164566"
+         id="text5068"><tspan
+           sodipodi:role="line"
+           id="tspan5066"
+           x="44.731876"
+           y="-35.164566"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Super Meat Boy</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5072"
+         y="-25.179777"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-25.179777"
+           x="44.731876"
+           id="tspan5070"
+           sodipodi:role="line">Portal 2 <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';stroke-width:0.30182055px"
+   id="tspan2862">(co-op)</tspan></tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="44.731876"
+         y="-15.19498"
+         id="text5076"><tspan
+           sodipodi:role="line"
+           id="tspan5074"
+           x="44.731876"
+           y="-15.19498"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px">Super Smash Brothers Ultimate</tspan></text>
+      <text
+         transform="scale(0.99369847,1.0063415)"
+         id="text5084"
+         y="-5.2101812"
+         x="44.731876"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30182055px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.18905163px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.30182055px"
+           y="-5.2101812"
+           x="44.731876"
+           id="tspan5082"
+           sodipodi:role="line">Amnesia: The Dark Descent</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:label="header"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.600437)"
+     style="display:inline">
+    <g
+       id="g8730"
+       transform="matrix(0.04090491,0,0,0.04106172,21.751542,29.486407)"
+       style="stroke-width:6.88628483">
+      <g
+         transform="translate(-3.0000131,10.828408)"
+         style="display:inline;opacity:1;stroke-width:6.88628483"
+         inkscape:label="vectorisation"
+         id="layer2-9">
+        <ellipse
+           cx="379.98428"
+           cy="364.78342"
+           rx="50.550976"
+           ry="28.412186"
+           transform="matrix(1.0524568,0,0,1.052852,-20.911856,-18.886181)"
+           id="path4237"
+           style="opacity:1;fill:#e20303;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.54182863;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.88628483"
+           id="g4251">
+          <path
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.88628483"
+             d="m 439.82042,410.38773 c 0,0 -51.28946,11.26752 -110.57147,-11.31611 -59.28202,-22.58363 -133.38037,-87.67883 -117.11692,-140.71184 16.26346,-53.03301 74.55745,-105.86186 190.40594,-105.86186 115.84849,0 138.37061,5.42289 173.45777,44.46059 C 611.08291,235.9962 600.5,313 600.5,313 c 0,0 42.96717,-53.22601 -1.93411,-129.23999 -44.90128,-76.01398 -181.43739,-62.44995 -189.15106,-62.44995 -7.71367,0 -164.04878,-5.07875 -217.08179,96.74463 -53.033,101.82338 45.15326,168.1956 68.58936,181.72644 23.4361,13.53084 110.66221,59.39697 178.89802,10.6066 z"
+             id="path4241"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="czszzcszszc"
+             inkscape:transform-center-x="-18.721108"
+             inkscape:transform-center-y="-88.549368" />
+          <path
+             sodipodi:nodetypes="ssssccsssssscsssssscssssssscszs"
+             inkscape:connector-curvature="0"
+             id="path4286"
+             d="M 242.01172,213.25977 C 43.088123,252.33404 14.246094,366.35696 14.246094,399.78125 c 0,33.31907 12.415405,58.76536 32.675781,77.78125 20.260376,19.01589 48.211815,31.7104 79.500005,40.43164 62.57637,17.44248 138.74234,19.01051 194.46484,21.54883 0.0605,0.003 0.12109,0.003 0.18164,0.002 183.68967,-3.9866 291.13081,-33.93789 324.97266,-47.93359 16.77436,-6.93724 40.84367,-18.78186 60.90039,-35.30078 20.05671,-16.51893 36.2832,-37.91755 36.2832,-63.81055 0,-26.11729 -19.67699,-46.47427 -48.4375,-60.02734 C 666.0266,318.91959 627.83625,311.77539 589,311.77539 c -38.89524,0 -64.99081,8.47729 -81.38867,17.06055 -16.39787,8.58326 -24.89849,21.52874 -24.89849,21.52874 -1.66961,2.19373 86.00153,-31.44975 151.83208,-6.81195 22.26929,8.33453 38.76243,17.71322 49.56641,27.47852 10.80397,9.7653 15.8752,19.74627 15.96875,29.70508 0.0935,9.9588 -4.81615,20.28779 -15.22852,30.67187 -10.41236,10.38409 -26.27482,20.67648 -47.45508,30.23438 -94.30526,42.55662 -252.09177,45.01562 -311.41992,45.01562 h -0.002 c -47.16319,0.0437 -117.91757,-0.76143 -176.5625,-14.66211 -29.32247,-6.95034 -55.577197,-17.19001 -74.300782,-31.98047 -18.723585,-14.79045 -30.001953,-33.88992 -30.001953,-59.5332 0,-25.61721 11.772628,-48.03503 30.71875,-67.61914 18.946122,-19.58411 45.045745,-36.18635 73.156255,-49.74609 56.221,-27.11949 120.53296,-42.09325 151.23046,-45.72852 61.96328,-7.33785 143.33669,-7.38672 225.83594,-7.38672 81.65193,0 153.2163,30.13643 153.2163,30.13643 -4.71257,-13.18631 -40.53049,-62.95919 -136.14208,-65.31416 -35.89559,-0.88414 -66.23662,-1.4346 -120.10318,-1.46381 -53.86656,-0.0292 -104.04855,4.78192 -181.01005,19.89936 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.88628483"
+             transform="translate(0.29376321,-5.5402195)" />
+          <path
+             transform="rotate(180,379.21391,364.90019)"
+             inkscape:transform-center-y="88.549368"
+             inkscape:transform-center-x="18.721108"
+             sodipodi:nodetypes="czszzcszszc"
+             inkscape:connector-curvature="0"
+             id="path4276"
+             d="m 439.82042,410.38773 c 0,0 -51.28946,11.26752 -110.57147,-11.31611 -59.28202,-22.58363 -133.38037,-87.67883 -117.11692,-140.71184 16.26346,-53.03301 74.55745,-105.86186 190.40594,-105.86186 115.84849,0 138.37061,5.42289 173.45777,44.46059 C 611.08291,235.9962 600.5,313 600.5,313 c 0,0 42.96717,-53.22601 -1.93411,-129.23999 -44.90128,-76.01398 -181.43739,-62.44995 -189.15106,-62.44995 -7.71367,0 -164.04878,-5.07875 -217.08179,96.74463 -53.033,101.82338 45.15326,168.1956 68.58936,181.72644 23.4361,13.53084 110.66221,59.39697 178.89802,10.6066 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.88628483" />
+          <g
+             transform="rotate(20,404.81404,380.98811)"
+             id="g4305"
+             style="stroke-width:6.88628483">
+            <path
+               id="path4301"
+               transform="matrix(1,0,0,-1,3.0000131,765.86688)"
+               d="m 248.98047,548.9082 c 3.01596,87.22904 74.76367,205.66016 74.76367,205.66016 0,0 -92.66997,-51.40485 -103.99805,-222.87109 -3.5564,-53.8311 -5.40429,-95.53246 -5.40429,-143.34961 0,-47.81715 1.84789,-89.51851 5.40429,-143.34961 C 231.07417,73.531809 323.74414,22.126959 323.74414,22.126959 c 0,0 -71.74771,118.431121 -74.76367,205.660161 -1.35552,39.20468 -5.54297,107.00848 -5.54297,160.56054 0,53.55206 4.18745,121.35586 5.54297,160.56054 z"
+               style="fill-opacity:1;fill-rule:evenodd;stroke-width:6.88628483"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="scsascsas" />
+            <path
+               sodipodi:nodetypes="scsascsas"
+               inkscape:connector-curvature="0"
+               style="fill-opacity:1;fill-rule:evenodd;stroke-width:6.88628483"
+               d="m 248.98047,548.9082 c 3.01596,87.22904 74.76367,205.66016 74.76367,205.66016 0,0 -92.66997,-51.40485 -103.99805,-222.87109 -3.5564,-53.8311 -5.40429,-95.53246 -5.40429,-143.34961 0,-47.81715 1.84789,-89.51851 5.40429,-143.34961 C 231.07417,73.531809 323.74414,22.126959 323.74414,22.126959 c 0,0 -71.74771,118.431121 -74.76367,205.660161 -1.35552,39.20468 -5.54297,107.00848 -5.54297,160.56054 0,53.55206 4.18745,121.35586 5.54297,160.56054 z"
+               transform="rotate(180,373.65385,380.37168)"
+               id="path4303" />
+          </g>
+        </g>
+      </g>
+      <g
+         style="display:none;stroke-width:6.88628483"
+         transform="translate(-9.8571517,-125.10523)"
+         id="layer1-3"
+         inkscape:label="template">
+        <image
+           sodipodi:absref="/Users/247flashgames/Downloads/Close Up HoGS.png"
+           xlink:href="Close Up HoGS.png"
+           id="image4233"
+           style="stroke-width:6.88628483;image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="730"
+           width="752"
+           transform="translate(6.8571386,135.93364)" />
+      </g>
+    </g>
+    <g
+       id="g3512"
+       transform="translate(-2.6458334)">
+      <text
+         transform="scale(0.99808875,1.0019149)"
+         id="text817"
+         y="36.580391"
+         x="114.51888"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.12057495px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.73050499px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           y="36.580391"
+           x="114.51888"
+           id="tspan815"
+           sodipodi:role="line">HoGS Plays</tspan><tspan
+           id="tspan814"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.73050499px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           y="50.920822"
+           x="114.51888"
+           sodipodi:role="line">Extra Life</tspan><tspan
+           id="tspan7037"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.73050499px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           y="65.261253"
+           x="114.51888"
+           sodipodi:role="line">Game Schedule</tspan></text>
+      <text
+         transform="scale(0.99808872,1.0019149)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.12057495px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient633);fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="114.51888"
+         y="36.580395"
+         id="text8810"><tspan
+           sodipodi:role="line"
+           id="tspan8804"
+           x="114.51888"
+           y="36.580395"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.73050499px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient633);fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">HoGS Plays</tspan><tspan
+           sodipodi:role="line"
+           x="114.51888"
+           y="50.920826"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.73050499px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient633);fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="tspan8806">Extra Life</tspan><tspan
+           sodipodi:role="line"
+           x="114.51888"
+           y="65.261261"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.73050499px;line-height:75%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient633);fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="tspan8808">Game Schedule</tspan></text>
+    </g>
+    <g
+       id="g3502"
+       transform="translate(5.1473089,61.294966)">
+      <g
+         id="g3642"
+         transform="translate(-13.304907,15.001031)">
+        <text
+           id="text4531"
+           y="36.580395"
+           x="174.27068"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.05000114px;line-height:100%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3644);fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           xml:space="preserve"
+           transform="scale(0.99808872,1.0019149)"><tspan
+             id="tspan4529"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.05000114px;line-height:100%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient3644);fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             y="36.580395"
+             x="174.27068"
+             sodipodi:role="line">March</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.05000114px;line-height:100%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient3644);fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             y="55.630394"
+             x="174.27068"
+             sodipodi:role="line"
+             id="tspan4535">2–3</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.05000114px;line-height:100%;font-family:Alba;-inkscape-font-specification:'Alba Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient3644);fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             y="74.680397"
+             x="174.27068"
+             sodipodi:role="line"
+             id="tspan3494" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.11250019px;line-height:50%;font-family:Alba;-inkscape-font-specification:Alba;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient3646);fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           x="175.97021"
+           y="64.240028"
+           id="text8818"
+           transform="scale(0.99808875,1.0019149)"><tspan
+             id="tspan8816"
+             sodipodi:role="line"
+             x="175.97021"
+             y="64.240028"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.11250019px;line-height:50%;font-family:Alba;-inkscape-font-specification:Alba;text-align:center;text-anchor:middle;fill:url(#linearGradient3646);fill-opacity:1;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">noon–noon</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3611"
+       transform="translate(-3.654459,6.1033493)">
+      <text
+         transform="matrix(0.99369848,0,0,1.0063415,0,164.70877)"
+         id="text3599"
+         y="14.396314"
+         x="126.37684"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.30209923px;line-height:125%;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.30209923px;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';text-align:start;baseline-shift:baseline;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332px"
+           y="14.396314"
+           x="126.37684"
+           id="tspan3597"
+           sodipodi:role="line">https://Twitch.TV/HoGSPlays</tspan></text>
+      <image
+         sodipodi:absref="/Users/247flashgames/Downloads/HoGSPlaysQR.png"
+         xlink:href="HoGSPlaysQR.png"
+         width="68.786621"
+         height="68.786621"
+         preserveAspectRatio="none"
+         style="stroke-width:3.15407705;image-rendering:optimizeSpeed"
+         id="image3592"
+         x="135.0407"
+         y="181.44067" />
+    </g>
+  </g>
+</svg>
