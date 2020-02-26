@@ -6,6 +6,7 @@
 
 $$
 100kVA= S;\ 7200V = V_1;\ 600V=V_2\\
+100kW=P_1
 $$
 
 8. In the above problem, How should the transformer terminals ($H_1$, $H_2$, $X_1$, $X_2$) be connected?
