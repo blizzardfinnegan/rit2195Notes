@@ -3,7 +3,7 @@
 Inter integrated circuits
 
 - standard serial bus protocol
-- enables communicationbetween microprocessor and peripherals
+- enables communication between microprocessor and peripherals
 - 2 wires in the interface
     - clock
         - `SCL ` or `SCLK`
