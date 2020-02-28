@@ -6,11 +6,11 @@ The objective of this lab was to study the relationship between primary and seco
 
 For lab 3, for each part, connect the power supply to the transformer according to the respective figure below. Then, connect the load to the opposite side of the transformer. Then measure the voltage, current, and power, using the wattmeter.  
 
-
-
 # Results and Conclusions
 
+At the end of lab 3, we showed that changing the turns ratios of the transformers changes the power out to the load, and that the load being partially reactive does pass over to the primary side of the transformer. 
 
+At the end of lab 4, we were able to calculate the internal losses of the transformer. We found the internal resistance for the core to be $R_m=5760\Omega$ and $X_m=5559\Omega$. We then found the internal resistances of the transformer to be $R_f=23\Omega$ and $X_f=25.3\Omega$.  We also found that the efficiency of a transformer goes down as the load resistance goes up. 
 
 # Wiring Diagrams
 
@@ -154,6 +154,12 @@ $$
 | $100$ | $0.5$      | $17.09$    | $5.75$     |
 
 All values measured
+$$
+R_f={P\over I^2}={5.75W\over0.5A^2}\\R_f=23\Omega\\
+X_f=\sqrt{({V\over I})^2- ({P\over I^2})^2}= \sqrt{({17.09V\over 0.5A})^2- ({5.75W\over0.5A^2})^2}\\
+X_f=25.3\Omega
+$$
+
 
 ### Open Circuit Test
 
@@ -166,6 +172,12 @@ All values measured
 | $125$ | $75$       | $0.0829$   | $3.92$     |
 
 All values measured
+$$
+R_m=a^2{V_s^2\over P}= 4({60V^2\over2.5W})\\R_m=5760\Omega\\
+X_m={V^2\over\sqrt{(VI)^2-P^2}}={60V^2\over\sqrt{(60V\times0.06A)^2-2.5W^2}}\\
+X_m=5559\Omega
+$$
+
 
 ### Load Test
 
