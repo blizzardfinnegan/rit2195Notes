@@ -96,7 +96,7 @@ If you are asked to graph the waveform, tack a $\sqrt2$ on the end.
 
 Inductors lag, capacitors lead
 
-Review line vs phase
+$V_L=\frac{V_\phi}{\sqrt3}$
 
 Review delta vs wye
 
