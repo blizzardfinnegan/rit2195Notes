@@ -1,5 +1,4 @@
 # Voltage Regulation
-
 $$
 VR(\%) ={E_{NL}-E_{FL}\over E_{FL}}\\where\\
 E_{NL}=V_s(no\ load)\\
