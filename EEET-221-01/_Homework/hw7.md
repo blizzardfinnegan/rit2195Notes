@@ -1,4 +1,4 @@
-# fSkyler MacDougall
+# Skyler MacDougall
 
 ##  Homework 7: Due 3/4/2020
 
@@ -44,7 +44,6 @@
         \overline{\underline{|B=500kHz|}}
         $$
         
-    
     2. slew rate for the op-amp selected
         $$
         f_{sr}=125kHz;\ V_o=12.5V\\
