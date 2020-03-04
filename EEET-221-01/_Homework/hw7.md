@@ -36,6 +36,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 45. A non-inverting amplifier with a gain of 25 is to be designed for use in an audio application. Specifications require that the gain vary no more than 1dB from near DC to 20kHz. the peak input signal is expected never to exceed 0.5V. Determine the minimum values for:
     1. unity gain frequency
         $$
