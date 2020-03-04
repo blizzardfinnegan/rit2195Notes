@@ -88,7 +88,7 @@ Unasked questions:
 
 Whats the efficiency?
 $$
-eff={P_o\overP_i}\approx58%
+eff={P_o\over P_i}\approx58\%
 $$
 
 ## Question 5
