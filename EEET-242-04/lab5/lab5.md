@@ -37,7 +37,6 @@ In this lab we learned the polarity of the transformers used in lab. All of thes
 *Figure 6: Transformer Guide*
 
 [^1]:In these tests, the $V_{in}$ was actually 60V.
-
 [^2]: In these diagrams, the numbers are typed due to QUCS not accepting numbers in the annotations as the first character. Annotations with two numbers represent nodes in the transformer depicted in Figure 6 that were connected for the lab.
 
 # Experimental Data
