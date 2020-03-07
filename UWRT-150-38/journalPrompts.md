@@ -32,3 +32,11 @@ My past experiences with the peer review process have been formulaic, as with th
 # Journal Prompt 4
 
 1. We spend this week talking about and finding examples of two rhetorical strategies that Joseph Harris believes academic writers employ: forwarding and countering. For this entry, I’d like you to think about your Critical Synthesis essay through the lens of these particular writerly “moves”. That is, how might you forward or counter the ideas/claims/perspectives/positions of Gee, Anzaldua, or Ashanti-Young? Try to be specific.
+
+I plan to explore how language works, and the discussion on universal languages. Gee has some rather conservative thoughts on the subject, while Anzaldua and Ashanti-Young have some more progressive thoughts. Gee seems to be saying that its necessary, to avoid conversing between Discourses. Meanwhile, Anzaldua and Ashanti-Young seem to hold the opinion that that inherently starts discrimination, and is dangerous at best.
+
+# Journal Prompt 5
+
+1. We’ve devoted the better part of two weeks to engaging with several sources. What are the fundamental concerns of writing studies scholars? What are some overarching themes you found across sources? How might we begin to characterize or categorize the articles? Has this experience led you to your own subject of inquiry and research? If so, how? If not, why not? What are you interested in researching for your inquiry-project? Remember that it needs to be connected to language, literacy, identity, culture, education, knowledge, power, etc.
+
+Writing studies scholars seem to be discussing big picture problems that are easy to see, but hard to solve, and even harder to implement. All of the sources seem to see some major problem in society, with most of the ones we talked about in our group pointing out problems with the education system. We could categorize the articles by their subject matter; education, discrimination, race. This experience hasn’t really given me any subjects I’m interested in researching, as what I learned about from reading the document, while interesting, didn’t provide any further questions to ask. I’d be interested in doing something about 
