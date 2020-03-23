@@ -1,6 +1,3 @@
- **German letter/symbol** 
- ä Ä é ö Ö ü Ü ß
-
 **Name: Skyler MacDougall**
 
 **Klasse: 03**
@@ -11,31 +8,33 @@
 
 ## A. Write down what you hear. [6 Punkte]
 
-1. 
+1. Ich magt din fuhling und din herbst.
 
-2. 
+2. Die sie ja, machen vier umlaub in eusterich.
 
-3. 
+3. Der Winter in Deutschlan ist nicht zu kalt. 
 
 ## B. Write down the sentences you hear. Then respond to each one with a brief but complete sentence in German. [18 Punkte]
 
-1. 
+1. Wie ist das Klima in Deutschland?
+    Das Klima in Deutschland ist warm.
 
-2. 
+2. Mögen sie den schnee?
+    Ja, ich möge den shnee.
 
 # II. Grammatik
 
 ## C. Prepositions in the accusative case. Complete the following sentences with the correct accusative prepositions. Don’t forget to modify the articles or posessive adjectives! [18 Punkte]
 
-1. Der Vater kauft Brötchen __ (for his children) __.
+1. Der Vater kauft Brötchen für seine Kinder.
 
-2. Was hast du denn __ (against the (female) teacher) __?
+2. Was hast du denn gegen die Lehrerin?
 
-3. Ich bin nicht hungrig. Frühstückt doch __ (without us) __.
+3. Ich bin nicht hungrig. Frühstückt doch ohne uns.
 
-4. Wir wandern gern __ (through the museum) __. 
-5.  Gehen wir doch __ (around the pond (der See)) __. 
-6. Leider müssen Sie __ (until April) __ warten. 
+4. Wir wandern gern durch das Museum. 
+5.  Gehen wir doch um der See. 
+6. Leider müssen Sie bis April warten. 
 
 ## D. Prepositions in the accusative case. Complete the following sentences with the correct accusative prepositions. Choose from the word bank.
 
@@ -43,7 +42,7 @@ durch | für  | gegen | ohne | um
 
 
 
-Selda und Hasan gehen heute __ d__ Park (m). Sie gehen __ d__ See (m) und sprechen über die Universität. Hasan mag seinen Deutschkurs nicht und sagt etwas __ sein__ Deutschprofessor (m). Selda geht in die Buchhandlung. Sie kauft ein Buch __ ihr__ Englischkurs (m). Julian ist auch da. Er fragt Selda und Hasan: “Kummt ihr mit ins Kino?” Selda und Hasan kommen aber nicht mit. Sie arbeiten heute Abend. Julian geht also __ sein__ Freunde (pl) ins Kino. 
+Selda und Hasan gehen heute durch der Park (m). Sie gehen bis der See (m) und sprechen über die Universität. Hasan mag seinen Deutschkurs nicht und sagt etwas ohne seinen Deutschprofessor (m). Selda geht in die Buchhandlung. Sie kauft ein Buch für ihr Englischkurs (m). Julian ist auch da. Er fragt Selda und Hasan: “Kummt ihr mit ins Kino?” Selda und Hasan kommen aber nicht mit. Sie arbeiten heute Abend. Julian geht also bis seine Freunde (pl) ins Kino. 
 
 ## E. The imperative
 
@@ -54,15 +53,15 @@ Sie haben einge Party zuhausae und sprechen mit den Gästen. Bilden Sie Imperati
 **Beispiel: *etwas Käse nehmen (Julia)    ==Julia, nimm etwas Käse!==* ** 
 
 1. ein Glas Wein trinken (Sarah und Luca)
-    __
+    Sarah und Luca, trinkt ein Glas Wein!
 2. Gitarre spielen (David)
-    __
+    David, spiele Gitarre!
 3. ein Stuck Brot essen (Professor Hauser)
-    __
+    Professor Hauser, essen Sie ein Stuck Brot!
 4. noch ein bisschen bleiben (Annika und Peter)
-    __
+    Annika und Peter, bleibet noch ein bisschen!
 5. lustig sein (Frau Müller)
-    __
+    Frau Müller, seien Sie lustig!
 
 ### Part 2
 
@@ -71,22 +70,22 @@ Sie machen Pläne für heute Abend. Ihre Freundin schlägt Aktivitäten vor un S
 **Beispiel: *heute Abend ins Kino/Theater gehen    ==Gehen wir doch ins Theater!==* ** 
 
 1. mit dem Bus/mit dem Auto fahren
-    __
+    Fahren wir mit dem Auto!
 2. eine Pizza/eine Hamburger essen
-    __
+    Essen wir eine Pizza!
 3. in der Kneipe einen Wein / eine Cola trinken
-    __
+    Trinken wir in der Kneipe eine Cola!
 4. Hausaufgaben machen / einen Film sehen
-    __
+    Machen wir Hausaufgaben!
 
 ## F. möchten vs mögen vs gern. Translate the following English sentences to German, using either möchten, mögen, or gern [12 Punkte].
 
 1. I like to drink coffee.
-    __
+    Ich möchte Kaffee trinken.
 2. I like coffee.
-    __
+    Ich möge Kaffee.
 3. Would you like to drink a coffee with me?
-    __
+    Gern trinken ein Kaffee mit mich.
 
 # III. Vokabeln
 
@@ -95,20 +94,20 @@ Sie machen Pläne für heute Abend. Ihre Freundin schlägt Aktivitäten vor un S
 | sonnig     | ==die Sonne== |
 | ---------- | ------------- |
 | verschneit | die schnee    |
-| regnerisch | die regnet    |
-| warm       |               |
-| windig     |               |
+| regnerisch | die regen     |
+| warm       | warum         |
+| windig     | wind          |
 
 ## H. Sentence Adverbs. You will read some questions. Answer each question with a complete sentence. Begin your answer with each of the adverbs in the list below. 
 
 Gott sei Dank | leider | selbstverständlich | sicher
 
 1. Lernen Sie gern Deutsch?
-    __
+    Selbstverständlich, lerne ich gern Deutsh.
 2. Sind Sie freundlich?
-    __
+    Sicher, bin ich freundlich.
 3. Hören Sie gern Musik?
-    __
+    Gott sei Dank, höre ich gern Musik.
 
 ## I. Wie is das Wetter in… 
 
@@ -117,30 +116,30 @@ Answer in complete sentences. [9 Punkte]
 ![image-20200320170238571](kapitel4.assets/image-20200320170238571.png)
 
 1. in München?
-    __
+    Es schneit, und es ist kalt.
 2. in Erfurt?
-    __
+    Die Sonne schient, und es ist vier Grade Celsius.
 3. in Dresden?
-    __
+    Es regnet, und es ist funf Grade Celsius.
 
 # IV. Kulturelles Thema
 
 ## J. Das Klima in Deutschland. Answer the following questions in English. [12 Punkte]
 
 1. Describe the german climate. [2 Punkte]
-    __
+    The german climate is varied, and follows all of the seasons similar to here.
 2. In which direction do the four largest rivers flow? [2 Punkte]
-    __
+    South to north.
 3. In which direction does the *Donau* flow? [2 Punkte]
-    __
+    West to east.
 4. Describe the geographical differences between Northern Germany, the Middle and the South of Germany. [6 Punkte]
-    __
+    The north is flat, the middle is hilly, and the south is mountainous, with forests.
 
 ## K. The Common Origin of German and English [3 Punkte]
 
 1. The limes is a “wall” of Roman fortifications intended to halt Germanic expansion to the South in to the Roman Empire.
-    a. True    b. False
+    a. True    ==b. False==
 2. Remains of the limes can be seen today.
-    a. True    b. False
+    ==a. True==    b. False
 3. In the 5th Century AD, the Germanic Angles and Saxon tribes migrated to the British Isles. The Germanic language then evolved into Modern English. German and English thus share a common origin.
     ==a. True==    b. False
