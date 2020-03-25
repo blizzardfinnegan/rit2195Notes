@@ -20,14 +20,14 @@ Right Aligned: `ADLAR=1`
     Write the instruction(s) that initializes the `ADMUX` register so that the reference voltage is `AVCC` (On an Arduino platform, `AVCC` is internally connected to 5V `VCC`)
     
     ```c	
-    
+    ADMUX |= 0x40;
     ```
 
 3.  Choose your analog source pin (from port C) and enable it using the `MUX3`-`MUX0` bits.
     Write the instruction(s) to select pin PC2 as the analog source pin to the ADC.
 
     ```c
-    
+    ADMUX |= 0x02;
     ```
 
 
@@ -36,22 +36,22 @@ Right Aligned: `ADLAR=1`
 
 1.  Choose a clock divider given the frequency of your system clock. Remember that ADCs work best between 50-200kHz. The Arduino clock frequency is 16MHz but other systems may be different. Prescale is set with `ADPS2`-`ADPS0` bits.
     What are the only clock divider options we can use to ensure a frequency between 50-200kHz range on an Arduino platform?
-    asdf
+    `111` and `110`, or 64 and 128
 
 2.  Do you want to trigger an interrupt when the conversion is complete? If so, set the `ADIE` bit. If you trigger an interrupt, you will also need an ISR. 
     What is the name of the interrupt vector for the ADC interrupt?
-    asdf
+    `ADC_vect`
 
 3.  If you don't use an interrupt, you can poll the `ADIF` bit to know when the conversion is complete. It will go high.
     Write the code for a While loop that waits for the `ADIF` bit to go high.
 
     ```c
-    
+    while(ADCSRA & 0x10){}
     ```
 
 4.  Do you want to start the conversion under program control, or upon the occurrence of another event (or free running mode)? Set the `ADATE` bit accordingly- 0 for program controlled conversions, and 1 for free-running mode and event-driven conversions.
     If you are initializing the conversion on the occurrence of another event, what other register needs to be initialized in `setup()`?
-    asdf
+    The interrupt that corresponds with the other event. (i.e. The pin-change interrupt or the timer interrupt.)
 
 5.  Turn on the ADC circuitry with the `ADEN` bit.
 
@@ -64,3 +64,13 @@ If you don't, then it will only run the conversion once, then stop. Putting it i
 
 1.  If you want free-running mode or an event-triggered interrupt, use the `ADTS2`-`ADTS0` bits to set that.
     Write the instructions to initialize the ADC to start a conversion on a `TIMER1` overflow interrupt.
+    
+    ```c
+    void setup(){
+        //assumed timer1 setup here
+        //other ADC setup not established in this question
+        ADCSRB |= 0x07;
+    }
+    ```
+    
+    
