@@ -73,7 +73,6 @@ I_{line}=I_{phase}\times\sqrt{3}
 $$
 
 # Power
-
 $$
 S_{phase}=V_{phase}\times I_{phase}={V_{line}\times I_{line}\over \sqrt{3}}\\
 S_{line}=V_{line}\times I_{line}={V_{phase}\times I_{phase}\over \sqrt{3}}\\
