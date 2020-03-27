@@ -4,7 +4,7 @@ The objective of this lab was to experimentally look at the wiring and measureme
 
 # Procedure
 
-
+First, we connected the power supply to the load through a Delta-Wye transformer. We then collected measurements, and changed the transformer to be a Delta-Delta transformer. After collecting the same measurements, we then 
 
 # Results and Conclusions
 
@@ -44,43 +44,49 @@ The objective of this lab was to experimentally look at the wiring and measureme
 | Location    | Line   | Phase | Line (ideal) | Phase (ideal) |
 | ----------- | ------ | ----- | ------------ | ------------- |
 | Primary 1   | 206.63 | 119.3 | 207.85       | 120           |
-| Primary 2   | 206.63 | 119.3 | 207.85       | 120           |
+| Primary 2   | 201.26 | 116.2 | 207.85       | 120           |
 | Primary 3   | 203.34 | 117.4 | 207.85       | 120           |
-| Secondary 1 | 101.84 | 58.8  | 103.92       | 60            |
-| Secondary 2 | 98.21  | 56.7  | 103.92       | 60            |
-| Secondary 3 | 98.03  | 56.6  | 103.92       | 60            |
+| Secondary 1 | 101.70 | 58.72 | 103.92       | 60            |
+| Secondary 2 | 101.62 | 58.67 | 103.92       | 60            |
+| Secondary 3 | 101.50 | 58.60 | 103.92       | 60            |
 
 $$
 V_L=\sqrt3V_\phi=\sqrt3(119.3V)=206.63
 $$
 
-
-
 ### Current (A)
 
-| Location    | Line   | Phase  | Line (ideal) | Phase (ideal) |
-| ----------- | ------ | ------ | ------------ | ------------- |
-| Primary 1   | 0.1175 | 0.1175 |              |               |
-| Primary 2   | 0.1170 | 0.1170 |              |               |
-| Primary 3   | 0.2779 | 0.2779 |              |               |
-| Secondary 1 | 0.0100 | 0.0100 |              |               |
-| Secondary 2 | 0.367  | 0.367  |              |               |
-| Secondary 3 | 0.367  | 0.367  |              |               |
+| Location    | Line  | Phase | Line (ideal) | Phase (ideal) |
+| ----------- | ----- | ----- | ------------ | ------------- |
+| Primary 1   | 0.117 | 0.117 | 0.050        | 0.050         |
+| Primary 2   | 0.118 | 0.118 | 0.050        | 0.050         |
+| Primary 3   | 0.117 | 0.117 | 0.050        | 0.050         |
+| Secondary 1 | 0.097 | 0.097 | 0.100        | 0.100         |
+| Secondary 2 | 0.097 | 0.097 | 0.100        | 0.100         |
+| Secondary 3 | 0.097 | 0.097 | 0.100        | 0.100         |
+
+$$
+I_L=I_\phi
+$$
 
 ### Miscellaneous
 
-| Measurement              | Value | Ideal Value |
-| ------------------------ | ----- | ----------- |
-| $R_{1_{calc}}\ (\Omega)$ |       | 600         |
-| $R_{2_{calc}}\ (\Omega)$ |       | 600         |
-| $R_{3_{calc}}\ (\Omega)$ |       | 600         |
-| $a_a$                    |       | 0.5         |
-| $a_b$                    |       | 0.5         |
-| $a_c$                    |       | 0.5         |
-| $P_{3\phi_p}\ (W)$       |       |             |
-| $P_{3\phi_s}\ (W)$       |       |             |
-
-
+| Measurement              | Value  | Ideal Value |
+| ------------------------ | ------ | ----------- |
+| $R_{1_{calc}}\ (\Omega)$ |        | 600         |
+| $R_{2_{calc}}\ (\Omega)$ |        | 600         |
+| $R_{3_{calc}}\ (\Omega)$ |        | 600         |
+| $a_a$                    | 2.0316 | 2.0         |
+| $a_b$                    | 1.9806 | 2.0         |
+| $a_c$                    | 2.0034 | 2.0         |
+| $P_{a_p}\ (W)$           | 9.602  |             |
+| $P_{b_p}\ (W)$           | 9.548  |             |
+| $P_{c_p}\ (W)$           | 9.546  |             |
+| $P_{a_s}\ (W)$           | 5.577  | 6.0         |
+| $P_{b_s}\ (W)$           | 5.567  | 6.0         |
+| $P_{c_s}\ (W)$           | 5.534  | 6.0         |
+| $P_{3\phi_p}\ (W)$       | 28.696 |             |
+| $P_{3\phi_s}\ (W)$       | 16.678 | 18.0        |
 
 ## Delta-Delta Transformer
 
