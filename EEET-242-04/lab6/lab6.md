@@ -92,25 +92,25 @@ $$
 
 ### Voltage (V)
 
-| Location    | Line  | Phase | Line (ideal) | Phase (ideal) |
-| ----------- | ----- | ----- | ------------ | ------------- |
-| Primary 1   | 118.0 | 118.0 | 120          | 120           |
-| Primary 2   | 121.0 | 121.0 | 120          | 120           |
-| Primary 3   | 117.0 | 117.0 | 120          | 120           |
-| Secondary 1 | 59.4  | 59.4  | 60           | 60            |
-| Secondary 2 | 59.7  | 59.7  | 60           | 60            |
-| Secondary 3 | 59.9  | 59.9  | 60           | 60            |
+| Location    | Line | Phase | Line (ideal) | Phase (ideal) |
+| ----------- | ---- | ----- | ------------ | ------------- |
+| Primary 1   |      |       |              |               |
+| Primary 2   |      |       |              |               |
+| Primary 3   |      |       |              |               |
+| Secondary 1 |      |       |              |               |
+| Secondary 2 |      |       |              |               |
+| Secondary 3 |      |       |              |               |
 
 ### Current (A)
 
-| Location    | Line   | Phase | Line (ideal) | Phase (ideal) |
-| ----------- | ------ | ----- | ------------ | ------------- |
-| Primary 1   | 0.1244 |       |              |               |
-| Primary 2   | 0.1230 |       |              |               |
-| Primary 3   | 0.1253 |       |              |               |
-| Secondary 1 | 0.1735 |       |              |               |
-| Secondary 2 | 0.1711 |       |              |               |
-| Secondary 3 | 0.1695 |       |              |               |
+| Location    | Line | Phase | Line (ideal) | Phase (ideal) |
+| ----------- | ---- | ----- | ------------ | ------------- |
+| Primary 1   |      |       |              |               |
+| Primary 2   |      |       |              |               |
+| Primary 3   |      |       |              |               |
+| Secondary 1 |      |       |              |               |
+| Secondary 2 |      |       |              |               |
+| Secondary 3 |      |       |              |               |
 
 ### Miscellaneous
 
@@ -131,42 +131,42 @@ $$
 
 ### Voltage (V)
 
-| Location  | Line  | Phase | Line (ideal) | Phase (ideal) |
-| --------- | ----- | ----- | ------------ | ------------- |
-| Primary 1 | 120.2 | 120.2 | 120          | 120           |
-| Primary 2 | 118.5 | 118.5 | 120          | 120           |
-| Primary 3 | 119.1 | 119.1 | 120          | 120           |
-| $R_1$     | 114.3 | 114.3 | 120          | 120           |
-| $R_2$     | 113.7 | 113.7 | 120          | 120           |
-| $R_3$     | 116.0 | 116.0 | 120          | 120           |
-| $R_4$     | 55.9  | 55.9  | 60           | 60            |
-| $R_5$     | 57.1  | 57.1  | 60           | 60            |
+| Location  | Line | Phase | Line (ideal) | Phase (ideal) |
+| --------- | ---- | ----- | ------------ | ------------- |
+| Primary 1 |      |       |              |               |
+| Primary 2 |      |       |              |               |
+| Primary 3 |      |       |              |               |
+| $R_1$     |      |       |              |               |
+| $R_2$     |      |       |              |               |
+| $R_3$     |      |       |              |               |
+| $R_4$     |      |       |              |               |
+| $R_5$     |      |       |              |               |
 
 ### Current (A)
 
-| Location  | Line   | Phase | Line (ideal) | Phase (ideal) |
-| --------- | ------ | ----- | ------------ | ------------- |
-| Primary 1 | 1.2    |       |              |               |
-| Primary 2 | 1.2    |       |              |               |
-| Primary 3 | 1.2    |       |              |               |
-| $R_1$     | 1.48   |       |              |               |
-| $R_2$     | 1.21   |       |              |               |
-| $R_3$     | 1.19   |       |              |               |
-| $R_4$     | 0.1941 |       |              |               |
-| $R_5$     | 0.1484 |       |              |               |
+| Location  | Line | Phase | Line (ideal) | Phase (ideal) |
+| --------- | ---- | ----- | ------------ | ------------- |
+| Primary 1 |      |       |              |               |
+| Primary 2 |      |       |              |               |
+| Primary 3 |      |       |              |               |
+| $R_1$     |      |       |              |               |
+| $R_2$     |      |       |              |               |
+| $R_3$     |      |       |              |               |
+| $R_4$     |      |       |              |               |
+| $R_5$     |      |       |              |               |
 
 ### Miscellaneous
 
-| Measurement              | Value |
-| ------------------------ | ----- |
-| $R_{1_{calc}}\ (\Omega)$ |       |
-| $R_{2_{calc}}\ (\Omega)$ |       |
-| $R_{3_{calc}}\ (\Omega)$ |       |
-| $a_a$                    |       |
-| $a_b$                    |       |
-| $a_c$                    |       |
-| $P_{3\phi_p}\ (W)$       |       |
-| $P_{3\phi_s}\ (W)$       |       |
+| Measurement              | Value | Ideal Value |
+| ------------------------ | ----- | ----------- |
+| $R_{1_{calc}}\ (\Omega)$ |       |             |
+| $R_{2_{calc}}\ (\Omega)$ |       |             |
+| $R_{3_{calc}}\ (\Omega)$ |       |             |
+| $a_a$                    |       |             |
+| $a_b$                    |       |             |
+| $a_c$                    |       |             |
+| $P_{3\phi_p}\ (W)$       |       |             |
+| $P_{3\phi_s}\ (W)$       |       |             |
 
 
 
@@ -174,40 +174,40 @@ $$
 
 ### Voltage (V)
 
-| Location  | Line | Phase |
-| --------- | ---- | ----- |
-| Primary 1 |      | 120.9 |
-| Primary 2 |      | 118.9 |
-| Primary 3 |      | 2.4   |
-| $R_1$     |      | 3.5   |
-| $R_2$     |      | 4.2   |
-| $R_3$     |      | 115.1 |
-| $R_4$     |      | 56.9  |
-| $R_5$     |      | 60.6  |
+| Location  | Line | Phase | Line (ideal) | Phase (ideal) |
+| --------- | ---- | ----- | ------------ | ------------- |
+| Primary 1 |      |       |              |               |
+| Primary 2 |      |       |              |               |
+| Primary 3 |      |       |              |               |
+| $R_1$     |      |       |              |               |
+| $R_2$     |      |       |              |               |
+| $R_3$     |      |       |              |               |
+| $R_4$     |      |       |              |               |
+| $R_5$     |      |       |              |               |
 
 ### Current (A)
 
-| Location  | Line   | Phase |
-| --------- | ------ | ----- |
-| Primary 1 | 1.34   |       |
-| Primary 2 | 0.0513 |       |
-| Primary 3 | 1.46   |       |
-| $R_1$     | 0.78   |       |
-| $R_2$     | 1.26   |       |
-| $R_3$     | 0      |       |
-| $R_4$     | 1.28   |       |
-| $R_5$     | 0      |       |
+| Location  | Line | Phase | Line (ideal) | Phase (ideal) |
+| --------- | ---- | ----- | ------------ | ------------- |
+| Primary 1 |      |       |              |               |
+| Primary 2 |      |       |              |               |
+| Primary 3 |      |       |              |               |
+| $R_1$     |      |       |              |               |
+| $R_2$     |      |       |              |               |
+| $R_3$     |      |       |              |               |
+| $R_4$     |      |       |              |               |
+| $R_5$     |      |       |              |               |
 
 ### Miscellaneous
 
-| Measurement              | Value |
-| ------------------------ | ----- |
-| $R_{1_{calc}}\ (\Omega)$ |       |
-| $R_{2_{calc}}\ (\Omega)$ |       |
-| $R_{3_{calc}}\ (\Omega)$ |       |
-| $a_a$                    |       |
-| $a_b$                    |       |
-| $a_c$                    |       |
-| $P_{3\phi_p}\ (W)$       |       |
-| $P_{3\phi_s}\ (W)$       |       |
+| Measurement              | Value | Ideal Value |
+| ------------------------ | ----- | ----------- |
+| $R_{1_{calc}}\ (\Omega)$ |       |             |
+| $R_{2_{calc}}\ (\Omega)$ |       |             |
+| $R_{3_{calc}}\ (\Omega)$ |       |             |
+| $a_a$                    |       |             |
+| $a_b$                    |       |             |
+| $a_c$                    |       |             |
+| $P_{3\phi_p}\ (W)$       |       |             |
+| $P_{3\phi_s}\ (W)$       |       |             |
 
