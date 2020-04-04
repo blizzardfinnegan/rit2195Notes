@@ -51,7 +51,6 @@ All the power sources in lab are $Y$ sources. You can tell, because there’s a 
 
 
 # Y config
-
 $$
 V_{ac}=V_{ab}=V_{bc}=V_{line}\\
 V_{an}=V_{bn}=V_{cn}=V_{phase}\\
