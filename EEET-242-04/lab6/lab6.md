@@ -43,9 +43,9 @@ First, we connected the power supply to the load through a Delta-Wye transformer
 
 | Location    | Line   | Phase | Line (ideal) | Phase (ideal) |
 | ----------- | ------ | ----- | ------------ | ------------- |
-| Primary 1   | 206.63 | 119.3 | 207.85       | 120           |
-| Primary 2   | 201.26 | 116.2 | 207.85       | 120           |
-| Primary 3   | 203.34 | 117.4 | 207.85       | 120           |
+| Primary 1   | 206.63 | 119.3 | 120          | 120           |
+| Primary 2   | 201.26 | 116.2 | 120          | 120           |
+| Primary 3   | 203.34 | 117.4 | 120          | 120           |
 | Secondary 1 | 101.70 | 58.72 | 103.92       | 60            |
 | Secondary 2 | 101.62 | 58.67 | 103.92       | 60            |
 | Secondary 3 | 101.50 | 58.60 | 103.92       | 60            |
@@ -58,9 +58,9 @@ $$
 
 | Location    | Line  | Phase | Line (ideal) | Phase (ideal) |
 | ----------- | ----- | ----- | ------------ | ------------- |
-| Primary 1   | 0.117 | 0.117 | 0.050        | 0.050         |
-| Primary 2   | 0.118 | 0.118 | 0.050        | 0.050         |
-| Primary 3   | 0.117 | 0.117 | 0.050        | 0.050         |
+| Primary 1   | 0.117 |       | 0.050        | 0.050         |
+| Primary 2   | 0.118 |       | 0.050        | 0.050         |
+| Primary 3   | 0.117 |       | 0.050        | 0.050         |
 | Secondary 1 | 0.097 | 0.097 | 0.100        | 0.100         |
 | Secondary 2 | 0.097 | 0.097 | 0.100        | 0.100         |
 | Secondary 3 | 0.097 | 0.097 | 0.100        | 0.100         |

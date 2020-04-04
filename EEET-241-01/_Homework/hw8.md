@@ -92,17 +92,27 @@ The rotor will slow down, and the current will increase.
     
     2. the active power supplied to the rotor
         $$
-        
+        P_{js}=3I^2R=3*(385A)^2*(0.10\Omega/2)\\
+        P_{js}\approx22.2kW\\
+    P_e=2344kW\\
+        P_f=23.4kW\\
+        P_r=P_e-P_f-P_{js}=2344kW-23.4kW-22.2kW\\
+        \overline{\underline{|P_r=2298kW|}}
         $$
-    
+        
     3. the total $I^2R$ losses in the rotor
         $$
-        
+        s=0.004\\
+        P_{jr}=sP_r=0.004*2298kW\\
+    \overline{\underline{|S_{jr}=3.3kW|}}
         $$
-    
+        
     4. The load mechanical power [kW], torque [$kN*m$], and efficiency [%].
         $$
-        
+        P_m=P_r-P_{jr}=2298kW-3.3kW\\
+        \overline{\underline{|P_m=2295kW|}}\\
+        T=9.55P_r/n_s={9.55*2298kW\over 720r/min}\\
+        \overline{\underline{|T=30480n*m|}}
         $$
 
 
