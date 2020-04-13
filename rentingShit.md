@@ -41,7 +41,7 @@ takes 5 minutes to get out of parking at the unit
 # First meet question and answers
 
 -   How much are you willing to pay for housing (in the event we look somewhere other than Westbrooke)?
-    At worst, I believe I can cover $600 a person
+    At worst, I believe I can cover $600 a person. (Mainly relying on financial aid to cover that)
 
 -   When would you want to move into said place? (Meaning, would this be your housing for the summer?)
     I believe I will be coming up in August
@@ -109,5 +109,5 @@ takes 5 minutes to get out of parking at the unit
 -   How long does it take you to get ready in the morning? 
     In general, takes about a half-hour, although in a rush I can make it in 5-10 minutes
 
-# First meet notes
+
 
