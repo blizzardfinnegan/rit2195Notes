@@ -63,6 +63,7 @@
     $$
     ![image-20200422161243708](exam2.assets/image-20200422161243708.png)
     
+
 ![image-20200422183032333](exam2.assets/image-20200422183032333.png)
     
 8. Sketch the output curve given the input curve shown below and the following:
