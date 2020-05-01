@@ -1,5 +1,4 @@
 # Two Pole Band Pass Filter Response Equations:
-
 $$
 M_{dB}=20log({M_o\over\sqrt{1+Q^2({f\over f_0}-{f_0\over f})^2}})\\
 f_0=\sqrt{f_1f_2}\\
