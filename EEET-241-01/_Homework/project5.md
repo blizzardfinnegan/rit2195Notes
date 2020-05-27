@@ -13,7 +13,7 @@ Given a 200HP 3 phase synchronous motor rated at 460V 60Hz with 8 inductive pole
 $$
     
 -   What is the power factor?
-    $$
+$$
     200HP=149.14kW\\
     S=VI\sqrt3=460V*200A*\sqrt3\\
     S=166.28kVA\\
