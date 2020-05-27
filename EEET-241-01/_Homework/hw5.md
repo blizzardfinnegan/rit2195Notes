@@ -33,7 +33,6 @@ The voltage decreases, because there is more voltage going to the internal losse
         \overline{\underline{|losses=466.9kW|}}
         $$
         
-    
     2. Calculate the losses and efficiency when the transformer delivers 66.7MVA to a load having a power factor of 80%.
 
 $$
