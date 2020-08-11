@@ -1,0 +1,9 @@
+EEET-221-01
+Electronics II
+Professor: Richard Cliver
+Semester: 2195 (2020 Spring)
+Time Slot: Unknown
+
+Professor Cliver is absolutely amazing. He will socialize with students before and after (and occasionally during) class. He genuinely wants to know you, the student, and wants to ensure that people are correctly understanding his content. He will occasionally make mistakes in his notes, and some of them are genuinely intentional to get you to think about his course, and ensure that you follow him correctly. (As a sidenote unrelated to the course itself: He will bring cookies to his Wednesday office hours, which feel more like hanging out with a friend than most office hours we've been to previously. He also has previously invited everyone to his house on most fridays from 7-11pm to hang out, play games, have food, etc. Genuinely, it feels as though he has never truly grown up, and we mean that in the best of ways.)
+This course is extremely math heavy, so the notes provided in this repository will contain a lot of LaTeX. Make sure that you have a way of converting LaTeX into readable text, or you understand LaTeX as a concept before continuing. The different diagrams were made with QUCS, which is a free circuit simulator available on most platforms. It will not calculate the values for you though. 
+Being very math inclined, and having taken the prerequisites, we had a fairly good idea of how things were working, and did not have to ask too many questions. We cannot provide a work time estimate, unfortunately. All homeworks, tests, and quizzes are very reasonable, with all of his homeworks coming directly from the book. The quizzes are normally not very long, and are easy assuming you keep up in the course.

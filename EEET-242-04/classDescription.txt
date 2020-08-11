@@ -1,0 +1,9 @@
+EEET-242-04
+Electrical Machines and Transformers
+Professor: Shola Olabisi
+Semester: 2195 (2020 Spring)
+Time Slot: Unknown
+
+Professor Olabisi is a wonderful guy. Happy to help, very trusting, very calm. He is extremely well versed in this topic, and this seems to be his true passion. He is very willing to help, and is also willing to accept students mistakes, such as missing a deadline by an hour, or accidentally copying a value incorrectly.
+Lab tools are all provided, but lab reports are quite lengthy. If you have taken Chem, you are familiar with the length that is required.
+As with EEET-221/2, we highly recommend QUCS as a circuit simulator, for diagrams.

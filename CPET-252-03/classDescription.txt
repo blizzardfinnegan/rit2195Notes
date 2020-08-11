@@ -1,0 +1,8 @@
+CPET-252-O3
+Microcontroller Systems Lab
+Professor: Ken Garland
+Semester: 2195 (2020 Spring)
+Time Slot: T 14-15 (2-3pm)
+
+Professor Garland is a very strict professor. He knows what he wants, and he wants it exactly. If at all possible, have as much of your lab work checked by the LA instead of him, if you wish to leave in a timely manner. He is not overly helpful either, simply saying whether your results are correct or incorrect. The LA will be more likely to give you a nudge in the right direction if you and your lab partner are stuck.
+This course is incredibly easy. 98% of it is plugging code given to you in the "notes" and making sure that it runs properly, while occasionally replacing a value or two. There is little to no skill needed for this course, except in soldering, which will be necessary as you will be building a small robot. Note that at the time of taking this course, the robot kit required to take this course successfully costs $80, and must be paid for in Tiger Bucks.
